@@ -1,0 +1,13 @@
+DROP TABLE `LeaseManagerSigned`;
+DROP TABLE `LeaseTenantSigned`;
+DROP TABLE `Lease`;
+DROP TABLE `Tenant`;
+DROP TABLE `PersonApartment`;
+DROP TABLE `Apartment`;
+DROP TABLE `TechnicianSkills`;
+DROP TABLE `Technician`;
+DROP TABLE `Manager`;
+DROP TABLE `Employee`;
+DROP TABLE `EmergencyContact`;
+DROP TABLE `Building`;
+DROP TABLE `Person`;
